@@ -1,0 +1,7 @@
+# Application configuration
+app:
+  port: ~
+
+# Database configuration
+db:
+  url: ~
